@@ -1,4 +1,4 @@
 {
   "extends": "rallycoding",
-  "rules": { "quotes": 0 }
+  "rules": { "quotes": 0, "arrow-body-style": 0 }
 }
